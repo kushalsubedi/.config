@@ -1,6 +1,4 @@
-/plugin 
-/usr/lib64/gimp/2.0/plug-ins
-/usr/lib64/gimp/2.0/plug-ins/gimp-console
-" "
-/./*.py/
+
+*/plugin/
+
 
